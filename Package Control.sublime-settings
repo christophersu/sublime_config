@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better JavaScript",
+		"ColorSchemeSelector",
+		"Dayle Rees Color Schemes",
+		"EasyMotion",
+		"Insert Nums",
+		"Jinja2",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Siteleaf Liquid Syntax",
+		"Theme - Spacegray"
+	]
+}
