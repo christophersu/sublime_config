@@ -1,3 +1,4 @@
 *.cache
 *.last-run
 *ca-bundle*
+sublime-dart-plugin-installed.txt
