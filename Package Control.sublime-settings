@@ -1,6 +1,8 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -8,10 +10,15 @@
 		"ColorSchemeSelector",
 		"Dayle Rees Color Schemes",
 		"EasyMotion",
+		"Evernote",
+		"Gist",
 		"Insert Nums",
 		"Jinja2",
+		"MarkdownEditing",
 		"Package Control",
 		"Pretty JSON",
+		"Prolog",
+		"rsub",
 		"Sass",
 		"Siteleaf Liquid Syntax",
 		"Theme - Spacegray"

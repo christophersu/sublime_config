@@ -1,0 +1,8 @@
+[
+    { "keys": ["super+e", "super+shift+s"], "command": "send_to_evernote" },
+    { "keys": ["super+e", "super+s"], "command": "save_evernote_note" },
+    { "keys": ["super+e", "super+o"], "command": "open_evernote_note" },
+    { "keys": ["super+e", "super+f"], "command": "open_evernote_note", "args": {"by_searching": true} },
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
+]

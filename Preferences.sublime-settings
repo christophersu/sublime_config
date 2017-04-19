@@ -34,20 +34,23 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"Markdown",
-		"Vintage",
-		"JavaScript"
+		"Package Control",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"hot_exit": "false",
+	"remember_open_files": "false",
 	"line_numbers": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"scroll_past_end": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"wide_caret": true,
